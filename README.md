@@ -2,6 +2,8 @@
 
 Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%201/aml_1_introduction_basics.ipynb)
 
+Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%202/aml_2_python_basics.ipynb#scrollTo=kb64LEbxqD9z)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/aml-sdu-f22/master)
 
 
