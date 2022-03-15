@@ -12,6 +12,8 @@ Lecture 5: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%206/aml_6_linear_models_for_classification.ipynb#scrollTo=X72-oC4xYkZ9)
 
+Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%207/aml_7_non-linear_models.ipynb#scrollTo=MEg1vVeFleRG)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/aml-sdu-f22/master)
 
 
