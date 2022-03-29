@@ -16,6 +16,8 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%208/aml_8_model_evaluation_imbalanced_learning.ipynb)
 
+Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%209/aml_9_dimensionality_reduction_clustring_outlier_detection.ipynb#scrollTo=WiSH-y8pRLA5)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/aml-sdu-f22/master)
 
 
