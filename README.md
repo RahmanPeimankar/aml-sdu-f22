@@ -20,6 +20,8 @@ Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%2010/aml_10_feature_selection_automl_parameters_tuning.ipynb)
 
+Lecture 11: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f22/blob/master/Lecture%2011/aml_11_neural_networks%20.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/aml-sdu-f22/master)
 
 
